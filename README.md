@@ -33,7 +33,7 @@ A URL Shortener application built with Java 21 and Spring Boot, designed to conv
 
    ```bash
    git clone https://github.com/omkargaikwad8324/spring-boot.url-shortener.git
-   cd spring-boot-url-shortener
+   cd spring-boot.url-shortener
    ```
 
 2. Configure your PostgreSQL connection in `application.properties` or environment variables.
